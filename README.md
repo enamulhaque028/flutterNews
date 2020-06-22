@@ -2,11 +2,20 @@
   <img src="screenshots/icon.png?raw=true" alt="Party Flutter" />
 </p>
 
-**Request** [source code](https://drive.google.com/drive/folders/1dAtffRx2gFgIFrleiyM3HGl1ZmJHxnS_?usp=sharing)
+Installation
+
+```
+flutter pub get
+```
+Usage 
+
+```
+flutter run
+```
 
 ### About
 
-A news app built using Flutter and Dart for both android and ios devices. This app can fetch top headlines from 10 different countries with detailed news from newsapi. There are 7 categories of news for each country Dark mode is also added for better UX. Other features are beautiful UI, device responsiveness, smooth webview and amazing online games.
+A news app built using Flutter and Dart for both android and ios devices. This app can fetch top headlines from 10 different countries with detailed news from newsapi. There are 7 categories of news for each country Dark mode is also added for better UX. Other features are beautiful UI, device responsiveness, smooth webview, live tv channels and amazing online games.
 
 # Features
 
@@ -37,3 +46,4 @@ A news app built using Flutter and Dart for both android and ios devices. This a
 <table><tr><td><img src='/screenshots/3.png' width="350" height="600"></td><td><img src='/screenshots/4.png' width="350" height="600"></td></tr></table>
 <table><tr><td><img src='/screenshots/5.png' width="350" height="600"></td><td><img src='/screenshots/6.png' width="350" height="600"></td></tr></table>
 <table><tr><td><img src='/screenshots/7.png' width="350" height="600"></td><td><img src='/screenshots/8.png' width="350" height="600"></td></tr></table>
+<table><tr><td><img src='/screenshots/9.png' width="350" height="600"></td><td><img src='/screenshots/10.png' width="350" height="600"></td></tr></table>
