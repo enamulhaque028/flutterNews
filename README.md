@@ -2,16 +2,7 @@
   <img src="screenshots/icon.png?raw=true" alt="Party Flutter" />
 </p>
 
-Installation
-
-```
-flutter pub get
-```
-Usage 
-
-```
-flutter run
-```
+**Request** [source code](https://drive.google.com/drive/folders/1dAtffRx2gFgIFrleiyM3HGl1ZmJHxnS_?usp=sharing)
 
 ### About
 
