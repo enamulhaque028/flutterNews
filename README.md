@@ -13,6 +13,7 @@ A news app built using Flutter and Dart for both android and ios devices. This a
 - Fetch top headlines with detailed news
 - News of 10 countries of 7 categories
 - Live TV Channels
+- Google Firebase Notification
 - Amazing online games
 - Beautiful UI
 - Dark Mode
@@ -25,11 +26,11 @@ A news app built using Flutter and Dart for both android and ios devices. This a
 <a href='https://drive.google.com/drive/folders/159SuTQOe8fr4W0j25KqF4MAAyrORsfLj?usp=sharing' target='_blank'><img alt='Get it on Google Drive' src='screenshots/google_drive_logo.jpg' height='48px'/></a>
 </div>
 
-## Preview Video
+<!-- ## Preview Video
 
 <div>
 <a href='https://www.youtube.com/watch?v=qcrmyzvgJdg' target='_blank'><img alt='Get it on Google Drive' src='screenshots/2.png' height='400px'/></a>
-</div>
+</div> -->
 
 ## Screenshots
 
